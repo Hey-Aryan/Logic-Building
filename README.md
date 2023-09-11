@@ -1,5 +1,8 @@
 # Logic-Building
 This Repository Contains C, C++ and Java Code to build logic from very basic 
+We use diffrent languages like C,
+C++, Java to solve the problem statements.
+
 • Programming based on basic algorithmic strategy
 • Programming based on Selection technique
 • Programming based on Iteration technique
